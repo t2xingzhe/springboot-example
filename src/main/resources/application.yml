@@ -1,0 +1,9 @@
+
+server.port: 8092
+
+logging:
+  level:
+    root: INFO
+    com.xncoding: DEBUG
+  path: D:/logs/springboot-aop
+
